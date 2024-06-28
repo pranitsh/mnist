@@ -32,3 +32,11 @@ Implemented an optimized KNN classifier from scratch, improving performance from
 - Used numerous optimization techniques, including preallocation (assigning memory before performing operations), views (manipulating current data intead of recreating it in necessary format), in-olace calculation (using numpy calculations instead of python-based iteration and loops)
 
 This approach uses a partition algorithm instead of a spatial data structure. Future efforts will be directed to implementing a spatial data structure to improve performance.
+
+### Trained Feed Forward Neural Net
+
+Implemented activation functions `tanh` and `sigmod` and their derivatives. Defined loss functions logarithmic loss `logloss` and its derivative. Initialized a neural network layer with weights and biases and defined forward and back propogation. 
+
+- Network with two layers: first layer with 3 neurons and `tanh` activation, second layer with 1 neuron and `sigmoid` activation
+- Set number of epochs to 20,000. Calculated and recorded the cost at each epoch to monitor training progress.
+- Plotted the training cost over epochs to visualize the learning curve.
