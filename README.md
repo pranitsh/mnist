@@ -9,14 +9,14 @@ The work showcases a comprehensive understanding of dataset handling, visualizat
 Used libraries `numpy`, `scikit-learn`, `matplotlib`, `scikit-learn`, and `seaborn`
 Fetched data with `fetch_openml` from `scikit-learn` to load the MNIST dataset; processed data by converting images to a numpy array and targets to integer type; and visualized individual images and the first instance of each digit using `matplotlib`.
 
-### Comparison with Standard Machine Learning Models
+### Standard Machine Learning Models
 
 Tested Random Forest Classifier, Logistic Regression, Support Vector Machine (SVM). Gradient Boosting Machines (GBM), and K-Nearest Neighbors (KNN).
 
 - Results are Random Forest: 6.45 seconds, 5.44% error rate; Logistic Regression: 56.96 seconds, 10.12% error rate; SVM: 34.23 seconds, 3.81% error rate, GBM: 382.74 seconds, 7.57% error rate; KNN: 3.88 seconds, 5.48% error rate
 - Best Model: SVM with the lowest error rate of 3.81%.
 
-### Custom Model Implementation
+### Custom Model Implementations
 
 Implemented a function to calculate mean squared error between images and built a simple custom model to predict digits by comparing each image to the first instance of each digit (resulted in an error rate of approximately 48.17%).
 
