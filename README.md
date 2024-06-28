@@ -11,10 +11,14 @@ Fetched data with `fetch_openml` from `scikit-learn` to load the MNIST dataset; 
 
 ### Standard Machine Learning Models
 
-Tested Random Forest Classifier, Logistic Regression, Support Vector Machine (SVM). Gradient Boosting Machines (GBM), and K-Nearest Neighbors (KNN).
+Tested random forest classifier, logistic regression, support vector machine (SVM), gradient boosting machines (GBM), and k-nearest neighbors (KNN).
 
-- Results are Random Forest: 6.45 seconds, 5.44% error rate; Logistic Regression: 56.96 seconds, 10.12% error rate; SVM: 34.23 seconds, 3.81% error rate, GBM: 382.74 seconds, 7.57% error rate; KNN: 3.88 seconds, 5.48% error rate
-- Best Model: SVM with the lowest error rate of 3.81%.
+- Random Forest: 6.45 seconds, 5.44% error rate
+- Logistic Regression: 56.96 seconds, 10.12% error rate
+- SVM: 34.23 seconds, 3.81% error rate
+- GBM: 382.74 seconds, 7.57% error rate
+- KNN: 3.88 seconds, 5.48% error rate
+- **Best Model:** SVM with the lowest error rate of 3.81%.
 
 ### Custom Model Implementations
 
