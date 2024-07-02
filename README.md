@@ -3,13 +3,16 @@
 ## Significance
 
 The results achieved are ranked 35th globally:
-According to papers with code, the accuracy rate achieved (96.2%) places 35th place on the scoreboard out of 70 research papers. https://paperswithcode.com/sota/image-classification-on-mnist?metric=Accuracy
+
+- According to papers with code, the accuracy rate achieved (96.2%) places 35th place on the scoreboard out of 70 research papers. https://paperswithcode.com/sota/image-classification-on-mnist?metric=Accuracy
 
 Statistics say that market penetration of AI in US could be expanded:
-According to a penetration report led by Forbes Advisor, 25% of companies [use] AI and 43% [are] exploring its potential applications. https://www.forbes.com/advisor/business/ai-statistics/
+
+- According to a penetration report led by Forbes Advisor, 25% of companies [use] AI and 43% [are] exploring its potential applications. https://www.forbes.com/advisor/business/ai-statistics/
 
 Initial investment in the dataset created an industry worth billions:
-The global Optical Character Recognition(OCR) Software market size was valued at USD 7891.05 million in 2021 and is expected to expand at a CAGR of 13.85% during the forecast period, reaching USD 17180.93 million by 2027. https://www.precisionreports.co/enquiry/request-sample/21438909
+
+- The global Optical Character Recognition(OCR) Software market size was valued at USD 7891.05 million in 2021 and is expected to expand at a CAGR of 13.85% during the forecast period, reaching USD 17180.93 million by 2027. https://www.precisionreports.co/enquiry/request-sample/21438909
 
 ## Summary of Work
 
